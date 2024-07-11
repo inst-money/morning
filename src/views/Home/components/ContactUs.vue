@@ -61,7 +61,7 @@ export default {
     position: relative;
     .logo{
       width: 375px;
-      height: 76px;
+      height: 96px;
       filter: brightness(0);
     }
     .logo-text{
